@@ -1,1 +1,1 @@
-piaoCTF_WPs
+picoCTF_WPs
